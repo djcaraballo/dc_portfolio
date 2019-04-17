@@ -1,4 +1,5 @@
 # Dina Caraballo Portfolio Site
+[![Netlify Status](https://api.netlify.com/api/v1/badges/af1d783b-ee3c-42b9-9c7f-b67504415be4/deploy-status)](https://app.netlify.com/sites/dcaraballo/deploys)
 
 ### Making a Progressive Web App
 
