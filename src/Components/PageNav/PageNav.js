@@ -1,16 +1,17 @@
 import React from 'react'
-import { Route, NavLink } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 
-import './Nav.css'
+import './PageNav.css'
 
-const Nav = () => {
+const PageNav = () => {
   return (
     <div className="nav-bar">
       <NavLink to='/about' className='nav'>About</NavLink>
       <NavLink to='/contact' className='nav'>Contact</NavLink>
       <NavLink to='/portfolio' className='nav'>Portfolio</NavLink>
+      <NavLink to='/' className='nav'>Home</NavLink>
     </div>
   )
 }
 
-export default Nav
+export default PageNav
