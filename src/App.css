@@ -7,10 +7,6 @@
   height: 100vh;
 }
 
-header {
-  padding: 3rem;
-}
-
 .my-name {
   color: #2c2c2c;
   display: flex;
@@ -21,6 +17,7 @@ header {
   /* text-shadow: 3px 3px #6cf1ff40; */
   /* text-shadow: 5px 0.5px #73ecf975; */
   letter-spacing: .05em;
+  padding: 4rem 0 0;
   text-shadow:
       4px 4px 0px #c2ddb9,
       7px 7px 0px rgba(0, 0, 0, 0.2);
@@ -29,8 +26,8 @@ header {
 .my-title {
   color: #2c2c2c;
   font-family: 'Open Sans', sans-serif;
-  font-size: 2em;
-  margin: 0.5em auto;
+  font-size: 3em;
+  margin: 0.5em auto 2em;
 }
 
 .coming-soon {

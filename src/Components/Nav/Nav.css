@@ -1,0 +1,23 @@
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 50%;
+  margin: auto;
+}
+
+.nav {
+  color: #2c2c2c;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2em;
+  margin: 0.5em auto;
+}
+
+.nav:hover {
+  color: #2f930e;
+}
+
+.active {
+  color: #2f930e;
+}
