@@ -3,7 +3,7 @@
 
 .App {
   text-align: center;
-  background-color: #333330;
+  background-color: #d5d5d5;
   height: 100vh;
 }
 
@@ -12,21 +12,29 @@ header {
 }
 
 .my-name {
-  color: #c2ddb9;
+  color: #2c2c2c;
+  display: flex;
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 5em;
+  font-size: 10em;
+  justify-content: center;
   margin: 0;
+  /* text-shadow: 3px 3px #6cf1ff40; */
+  /* text-shadow: 5px 0.5px #73ecf975; */
+  letter-spacing: .05em;
+  text-shadow:
+      4px 4px 0px #c2ddb9,
+      7px 7px 0px rgba(0, 0, 0, 0.2);
 }
 
 .my-title {
-  color: #fff;
+  color: #2c2c2c;
   font-family: 'Open Sans', sans-serif;
   font-size: 2em;
   margin: 0.5em auto;
 }
 
 .coming-soon {
-  color: #fff;
+  color: #2c2c2c;
   font-family: 'Open Sans', sans-serif;
   font-size: 4em;
 }
