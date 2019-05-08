@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Julius+Sans+One|Open+Sans');
-/*  */
 
 .App {
-  text-align: center;
   background-color: #d5d5d5;
   height: 100vh;
+  text-align: center;
 }
 
 .my-name {
@@ -13,10 +12,10 @@
   font-family: 'Julius Sans One', sans-serif;
   font-size: 10em;
   justify-content: center;
+  letter-spacing: .05em;
   margin: 0;
   /* text-shadow: 3px 3px #6cf1ff40; */
   /* text-shadow: 5px 0.5px #73ecf975; */
-  letter-spacing: .05em;
   padding: 4rem 0 0;
   text-shadow:
       4px 4px 0px #c2ddb9,
