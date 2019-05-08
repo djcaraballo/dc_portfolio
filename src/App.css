@@ -22,15 +22,17 @@
       7px 7px 0px rgba(0, 0, 0, 0.2);
 }
 
-.my-title {
+.my-title,
+.coming-soon {
   color: #2c2c2c;
   font-family: 'Open Sans', sans-serif;
+}
+
+.my-title {
   font-size: 3em;
   margin: 0.5em auto 2em;
 }
 
 .coming-soon {
-  color: #2c2c2c;
-  font-family: 'Open Sans', sans-serif;
   font-size: 4em;
 }

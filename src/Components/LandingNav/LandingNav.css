@@ -14,10 +14,7 @@
   margin: 0.5em auto;
 }
 
-.nav:hover {
-  color: #2f930e;
-}
-
+.nav:hover,
 .active {
   color: #2f930e;
 }
