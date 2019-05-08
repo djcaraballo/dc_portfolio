@@ -1,7 +1,7 @@
 h1 {
   font-family: 'Julius Sans One', sans-serif;
   font-size: 10em;
-  margin: 5rem auto;
+  margin: 3.5rem auto;
 }
 
 .contact-container {
@@ -12,7 +12,7 @@ h1 {
 .contact {
   color: #2c2c2c;
   font-family: 'Open Sans', sans-serif;
-  font-size: 2em;
+  font-size: 1.5em;
   margin: 0.5em auto 1rem;
 }
 
