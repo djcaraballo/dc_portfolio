@@ -5,7 +5,7 @@ import './PageNav.css'
 
 const PageNav = () => {
   return (
-    <div className="nav-bar">
+    <div className="page-nav-bar">
       <NavLink to='/about' className='nav'>About</NavLink>
       <NavLink to='/contact' className='nav'>Contact</NavLink>
       <NavLink to='/portfolio' className='nav'>Portfolio</NavLink>
