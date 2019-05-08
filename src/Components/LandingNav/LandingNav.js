@@ -6,9 +6,9 @@ import './LandingNav.css'
 const LandingNav = () => {
   return (
     <div className="nav-bar">
-      <NavLink to='/about' className='nav'>About</NavLink>
-      <NavLink to='/contact' className='nav'>Contact</NavLink>
-      <NavLink to='/portfolio' className='nav'>Portfolio</NavLink>
+      <NavLink to='/about' className='landing-nav'>About</NavLink>
+      <NavLink to='/contact' className='landing-nav'>Contact</NavLink>
+      <NavLink to='/portfolio' className='landing-nav'>Portfolio</NavLink>
     </div>
   )
 }
