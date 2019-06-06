@@ -4,6 +4,13 @@ h1 {
   margin: 3.5rem auto;
 }
 
+/* a {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 0.35em;
+  text-decoration: none;
+} */
+
 .contact-container {
   display: flex;
   flex-direction: column;
@@ -21,5 +28,5 @@ h1 {
 }
 
 .fab, .fas {
-  margin: 0.5rem;
+  margin-right: 0.5rem;
 }
