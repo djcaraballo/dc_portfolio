@@ -9,7 +9,7 @@ const PageNav = () => {
       <NavLink to='/about' className='nav'>About</NavLink>
       <NavLink to='/contact' className='nav'>Contact</NavLink>
       <NavLink to='/portfolio' className='nav'>Portfolio</NavLink>
-      <NavLink to='/home' className='nav'>Home</NavLink>
+      <NavLink to='/' className='nav'>Home</NavLink>
     </div>
   )
 }
